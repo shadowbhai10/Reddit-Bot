@@ -5,7 +5,8 @@ Step 1 -  Here i am using reddit API http://www.reddit.com/dev/api
           step 1 is to create an app from https://www.reddit.com/prefs/apps/
           and remember the client_id and client_secret 
           
-Step 2 -  Now you have to install the praw library in python using pip command .Why? cuz praw library is use to make bots in reddit.
+Step 2 -  Now you have to install the praw library in python using pip command .Why? cuz praw library   
+          is use to make bots in reddit.
           $pip install praw
           
 Step 3 -  Update the praw.ini file in Lib\Site-Packages\praw\praw.ini
